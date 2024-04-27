@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ClientNode3\bin\Debug\net6.0\ClientNode3.exe
+C:\Users\Admin\source\repos\ClientNode3\bin\Debug\net6.0\ClientNode3.deps.json
+C:\Users\Admin\source\repos\ClientNode3\bin\Debug\net6.0\ClientNode3.runtimeconfig.json
+C:\Users\Admin\source\repos\ClientNode3\bin\Debug\net6.0\ClientNode3.dll
+C:\Users\Admin\source\repos\ClientNode3\bin\Debug\net6.0\ClientNode3.pdb
+C:\Users\Admin\source\repos\ClientNode3\obj\Debug\net6.0\ClientNode3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ClientNode3\obj\Debug\net6.0\ClientNode3.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ClientNode3\obj\Debug\net6.0\ClientNode3.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ClientNode3\obj\Debug\net6.0\ClientNode3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ClientNode3\obj\Debug\net6.0\ClientNode3.dll
+C:\Users\Admin\source\repos\ClientNode3\obj\Debug\net6.0\refint\ClientNode3.dll
+C:\Users\Admin\source\repos\ClientNode3\obj\Debug\net6.0\ClientNode3.pdb
+C:\Users\Admin\source\repos\ClientNode3\obj\Debug\net6.0\ClientNode3.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ClientNode3\obj\Debug\net6.0\ref\ClientNode3.dll
